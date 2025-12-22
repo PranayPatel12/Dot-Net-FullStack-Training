@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\FinanceManagmentSystem\obj\Debug\net10.0\FinanceManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\FinanceManagmentSystem\obj\Debug\net10.0\FinanceManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\FinanceManagmentSystem\obj\Debug\net10.0\FinanceManagmentSystem.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\FinanceManagmentSystem\obj\Debug\net10.0\FinanceManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\FinanceManagmentSystem\bin\Debug\net10.0\FinanceManagmentSystem.exe
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\FinanceManagmentSystem\bin\Debug\net10.0\FinanceManagmentSystem.deps.json
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\FinanceManagmentSystem\bin\Debug\net10.0\FinanceManagmentSystem.runtimeconfig.json
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\FinanceManagmentSystem\bin\Debug\net10.0\FinanceManagmentSystem.dll
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\FinanceManagmentSystem\bin\Debug\net10.0\FinanceManagmentSystem.pdb
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\FinanceManagmentSystem\obj\Debug\net10.0\FinanceManagmentSystem.dll
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\FinanceManagmentSystem\obj\Debug\net10.0\refint\FinanceManagmentSystem.dll
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\FinanceManagmentSystem\obj\Debug\net10.0\FinanceManagmentSystem.pdb
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\FinanceManagmentSystem\obj\Debug\net10.0\FinanceManagmentSystem.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\FinanceManagmentSystem\obj\Debug\net10.0\ref\FinanceManagmentSystem.dll
