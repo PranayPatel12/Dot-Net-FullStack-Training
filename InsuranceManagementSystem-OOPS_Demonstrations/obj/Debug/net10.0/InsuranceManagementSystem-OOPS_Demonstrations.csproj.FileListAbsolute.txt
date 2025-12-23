@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\InsuranceManagementSystem-OOPS_Demonstrations\obj\Debug\net10.0\InsuranceManagementSystem-OOPS_Demonstrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\InsuranceManagementSystem-OOPS_Demonstrations\obj\Debug\net10.0\InsuranceManagementSystem-OOPS_Demonstrations.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\InsuranceManagementSystem-OOPS_Demonstrations\obj\Debug\net10.0\InsuranceManagementSystem-OOPS_Demonstrations.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\InsuranceManagementSystem-OOPS_Demonstrations\obj\Debug\net10.0\InsuranceManagementSystem-OOPS_Demonstrations.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\InsuranceManagementSystem-OOPS_Demonstrations\obj\Debug\net10.0\InsuranceManagementSystem-OOPS_Demonstrations.sourcelink.json
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\InsuranceManagementSystem-OOPS_Demonstrations\bin\Debug\net10.0\InsuranceManagementSystem-OOPS_Demonstrations.exe
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\InsuranceManagementSystem-OOPS_Demonstrations\bin\Debug\net10.0\InsuranceManagementSystem-OOPS_Demonstrations.deps.json
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\InsuranceManagementSystem-OOPS_Demonstrations\bin\Debug\net10.0\InsuranceManagementSystem-OOPS_Demonstrations.runtimeconfig.json
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\InsuranceManagementSystem-OOPS_Demonstrations\bin\Debug\net10.0\InsuranceManagementSystem-OOPS_Demonstrations.dll
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\InsuranceManagementSystem-OOPS_Demonstrations\bin\Debug\net10.0\InsuranceManagementSystem-OOPS_Demonstrations.pdb
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\InsuranceManagementSystem-OOPS_Demonstrations\obj\Debug\net10.0\InsuranceManagementSystem-OOPS_Demonstrations.dll
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\InsuranceManagementSystem-OOPS_Demonstrations\obj\Debug\net10.0\refint\InsuranceManagementSystem-OOPS_Demonstrations.dll
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\InsuranceManagementSystem-OOPS_Demonstrations\obj\Debug\net10.0\InsuranceManagementSystem-OOPS_Demonstrations.pdb
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\InsuranceManagementSystem-OOPS_Demonstrations\obj\Debug\net10.0\InsuranceManagementSystem-OOPS_Demonstrations.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\InsuranceManagementSystem-OOPS_Demonstrations\obj\Debug\net10.0\ref\InsuranceManagementSystem-OOPS_Demonstrations.dll

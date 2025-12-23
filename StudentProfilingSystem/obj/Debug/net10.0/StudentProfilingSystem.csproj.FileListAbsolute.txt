@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\StudentProfilingSystem\obj\Debug\net10.0\StudentProfilingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\StudentProfilingSystem\obj\Debug\net10.0\StudentProfilingSystem.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\StudentProfilingSystem\obj\Debug\net10.0\StudentProfilingSystem.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\StudentProfilingSystem\obj\Debug\net10.0\StudentProfilingSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\StudentProfilingSystem\obj\Debug\net10.0\StudentProfilingSystem.sourcelink.json
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\StudentProfilingSystem\bin\Debug\net10.0\StudentProfilingSystem.exe
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\StudentProfilingSystem\bin\Debug\net10.0\StudentProfilingSystem.deps.json
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\StudentProfilingSystem\bin\Debug\net10.0\StudentProfilingSystem.runtimeconfig.json
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\StudentProfilingSystem\bin\Debug\net10.0\StudentProfilingSystem.dll
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\StudentProfilingSystem\bin\Debug\net10.0\StudentProfilingSystem.pdb
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\StudentProfilingSystem\obj\Debug\net10.0\StudentProfilingSystem.dll
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\StudentProfilingSystem\obj\Debug\net10.0\refint\StudentProfilingSystem.dll
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\StudentProfilingSystem\obj\Debug\net10.0\StudentProfilingSystem.pdb
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\StudentProfilingSystem\obj\Debug\net10.0\StudentProfilingSystem.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Documents\Desktop\CSharp\StudentProfilingSystem\obj\Debug\net10.0\ref\StudentProfilingSystem.dll

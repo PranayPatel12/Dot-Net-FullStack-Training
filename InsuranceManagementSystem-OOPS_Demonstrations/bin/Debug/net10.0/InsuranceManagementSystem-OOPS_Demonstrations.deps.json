@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "InsuranceManagementSystem-OOPS_Demonstrations/1.0.0": {
+        "runtime": {
+          "InsuranceManagementSystem-OOPS_Demonstrations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InsuranceManagementSystem-OOPS_Demonstrations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
